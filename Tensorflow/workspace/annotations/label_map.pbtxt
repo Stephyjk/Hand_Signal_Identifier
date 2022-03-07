@@ -1,0 +1,28 @@
+item { 
+	name:'callme'
+	id:1
+}
+item { 
+	name:'dislike'
+	id:2
+}
+item { 
+	name:'goodjob'
+	id:3
+}
+item { 
+	name:'goodluck'
+	id:4
+}
+item { 
+	name:'highfive'
+	id:5
+}
+item { 
+	name:'ok'
+	id:6
+}
+item { 
+	name:'peace'
+	id:7
+}

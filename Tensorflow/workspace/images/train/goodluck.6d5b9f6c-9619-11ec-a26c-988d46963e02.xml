@@ -1,0 +1,26 @@
+<annotation>
+	<folder>goodluck</folder>
+	<filename>goodluck.6d5b9f6c-9619-11ec-a26c-988d46963e02.jpg</filename>
+	<path>C:\Users\steph\OneDrive\Documents\Datascience\AI Projects\object_detection\Tensorflow\workspace\images\collectedimages\goodluck\goodluck.6d5b9f6c-9619-11ec-a26c-988d46963e02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goodluck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>177</ymin>
+			<xmax>517</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

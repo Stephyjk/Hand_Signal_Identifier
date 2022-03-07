@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dislike</folder>
+	<filename>dislike.8b3f3bcf-9619-11ec-a213-988d46963e02.jpg</filename>
+	<path>C:\Users\steph\OneDrive\Documents\Datascience\AI Projects\object_detection\Tensorflow\workspace\images\collectedimages\dislike\dislike.8b3f3bcf-9619-11ec-a213-988d46963e02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dislike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>177</ymin>
+			<xmax>423</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
